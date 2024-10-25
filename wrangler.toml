@@ -1,11 +1,10 @@
 name = "backend"
 compatibility_date = "2023-12-01"
-compatibility_flags = [ "nodejs_compat" ]
-
 [vars]
 
 
 # Uncomment and configure these sections as necessary:
+
 # [[kv_namespaces]]
 # binding = "MY_KV_NAMESPACE"
 # id = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
